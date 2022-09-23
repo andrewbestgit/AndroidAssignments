@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidAssignments</string>
+    <string name="hello_message">Guten Tag!</string>
+    <string name="ButtonText">Ich bin ein Knopf</string>
+    <string name="login_text">Anmeldung</string>
+    <string name="login_hint">Benutzername</string>
+    <string name="password_text">Passwort</string>
+    <string name="switch_text">was macht das?</string>
+    <string name="radio_text">RadioKnopf</string>
+    <string name="checkbox_text">Kontrollkästchen</string>
+</resources>
