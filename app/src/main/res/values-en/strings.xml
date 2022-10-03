@@ -9,4 +9,13 @@
     <string name="switch_text">What does this do?</string>
     <string name="radio_text">RadioButton</string>
     <string name="checkbox_text">CheckBox</string>
+    <string name="dialog_message">Do you want to finish the activity?</string>
+    <string name="dialog_title">CheckBox Message</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="switch_tmsg">Switch is on</string>
+    <string name="switch_fmsg">Switch is off</string>
+    <string name="inv_login_msg">Invalid Login</string>
+    <string name="inv_passw_msg">Invalid Password</string>
+    <string name="info_share_msg">ListItemsActivity passed: My information to share</string>
 </resources>
